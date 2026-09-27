@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cville AI Explorers Redesign Concept//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cvaiex-meeting17-20260929@meetup.com
+DTSTAMP:20260927T180000Z
+DTSTART:20260929T220000Z
+DTEND:20260930T000000Z
+SUMMARY:Cville AI Explorers - AI Design Bake-Off
+LOCATION:Studio IX\, 969 2nd St SE\, Charlottesville\, VA
+DESCRIPTION:Small teams redesign cvaiex.org using AI design tools.\nOptio
+ nal book club at 5:45 PM EDT. Doors at 6 PM\; build session at 6:30\; de
+ mos at 7:15.\nBring a laptop if you want to operate the tools. Everyone 
+ is welcome.\nConfirm details and RSVP on Meetup.
+URL:https://www.meetup.com/cville-tech/events/316395613/
+END:VEVENT
+END:VCALENDAR
